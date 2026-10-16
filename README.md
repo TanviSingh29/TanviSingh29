@@ -1,6 +1,6 @@
    TANVI SINGH
 
-# 💫 About Me:
+#  About Me:
 *Building web and Java-based projects while strengthening my problem-solving skills .<br>*Web development projects, Java-based applications, and beginner-to-intermediate level projects .<br>*Advanced JavaScript concepts, frontend frameworks, UI/UX best practices, and building scalable, production-ready interfaces.<br>*Data Structures and Algorithms using Java, database management systems, computer networking.<br>*Web development (HTML, CSS, JavaScript), Java programming, MySQL, DBMS, OOP concepts.<br>*I’m a Smart India Hackathon finalist who enjoys turning ideas into practical applications and learning new technologies hands-on.<br>
 
 
